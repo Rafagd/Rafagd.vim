@@ -23,4 +23,8 @@ set foldmethod=syntax
 set foldcolumn=1
 set foldlevelstart=20
 
+" Mouse não deve ser limitado pelo fim da linha
+set ve=all
 
+" Sem quebras no fim da luta
+set nowrap
