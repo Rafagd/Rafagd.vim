@@ -28,3 +28,12 @@ set ve=all
 
 " Sem quebras no fim da luta
 set nowrap
+
+" Cores True-color!
+set termguicolors
+
+" Linhas para as colunas 80 e 100
+highlight ColorColumn ctermbg=None guibg=#101010
+set colorcolumn=80,100
+
+colorscheme rafagd
