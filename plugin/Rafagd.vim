@@ -36,4 +36,8 @@ set termguicolors
 highlight ColorColumn ctermbg=None guibg=#101010
 set colorcolumn=80,100
 
+" Remove all bells
+set noerrorbells
+set novisualbell
+set vb t_vb=
 colorscheme rafagd
